@@ -1,0 +1,17 @@
+{
+  "name": "seven",
+  "version": "1.0.0",
+  "description": "laba",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "laba"
+  ],
+  "author": "Sergey",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
